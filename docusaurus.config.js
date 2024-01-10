@@ -80,7 +80,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/EquistartLabs/blue-chip-website',
             label: 'GitHub',
             position: 'right',
           },
