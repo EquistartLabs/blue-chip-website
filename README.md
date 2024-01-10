@@ -2,6 +2,8 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+This website is deployed (FREE till 23rd Jan): [Vercel](https://blue-chip-website.vercel.app/)
+
 ### Installation
 
 ```
