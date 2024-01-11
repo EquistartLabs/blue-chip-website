@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Blue Chip Intro
+# Introduction
 
 **Blue Chip** is your gateway to simplified, diversified cryptocurrrency Investments. As the crypto market evolves and expands, navigating the complexities of Individual tokens can be a daunting task. That's where Blue Chip comes to your rescue, offering a smarted and accessible way to invest in the exciting world of cryptocurrencies.
 

@@ -32,3 +32,21 @@ List of oracles on BNB Chain are present [here](https://docs.bnbchain.org/docs/o
 - Uniswap: Largest EVM based dex
 
 ## Overview: Blue Chip Blue Print
+
+`For Developers`
+
+TODO
+Oracle: Automate selection and composition process
+Search for API Selection for Asset, price, Market cap data
+Data: Selected Dexes
+Data: Blue Chip Assets Under Management (AUM), token supply
+Data processing
+
+Smart Contract: Set Protocol
+Fork live network
+Test with custom investors and asset holdings
+Develop Admin Interactions
+Develop Oracle Interactions
+Develop Dex Interactions
+Develop Investor Interactions
+Maintain Docs in Github, or create seperate developer docs in this project

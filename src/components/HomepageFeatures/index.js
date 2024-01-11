@@ -4,32 +4,37 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Index Fund',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Index fund is like a mutual fund or Exchange traded fund, which is designed 
+        to follow certain preset rules so that it can replicate the performance of a
+         specified ASSET basket of underlying investment.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Blue Chip',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Blue chip is your gateway to simplified, diversified crypto investment. 
+        As crypto market evolves and expands, navigating the complexity of individual 
+        tokens can be daunting task. Blue chip offers smart and accessible way to invest
+         in the exciting world of cryptocurrencies.
+
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Why BLUE',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Blue Chip provides a portfolio of less risky and market winning crypto assets. 
+        We provide bechmark returns in the cryptocurrency market, upheld by retails, 
+        institutional and high-net worth individuals
       </>
     ),
   },
