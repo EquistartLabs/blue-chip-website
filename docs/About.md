@@ -10,11 +10,15 @@ The current state of the cryptocurrency market reflects both the remarkable grow
 
 The need for a structured and diversified investment approach becomes paramount in navigating this dynamic environment. While cryptocurrencies have demonstrated significant potential for substantial returns, the market's influence to rapid fluctuations underscores the importance of a strategic and diversified investment strategy.
 
+![InvestmentChallenge](../static/assets/investment-challenge.png)
+
 ## Inception to a solution
 
 The Blue Chip Cryptocurrency Index Fund emerges as a pioneering solution poised to address the distinctive challenges and opportunities inherent in the contemporary crypto investment landscape. In a market characterized by rapid innovation, diverse digital assets, and heightened volatility, the need for a sophisticated and reliable investment vehicle is ever more apparent.
 
 The Blue Chip Fund strategically positions itself as a beacon of stability and growth, offering investors a meticulously curated portfolio comprising the top-tier, blue-chip cryptocurrencies. By harnessing the collective strength and market dominance of these select assets, the fund not only provides a shield against the inherent risks of the crypto space but also capitalizes on the vast potential for growth.
+
+![CryptocurrencyIndex](../static/assets/crypto-basket.png)
 
 With a commitment to professional management, transparent reporting, and a focus on mitigating risk, the Blue Chip Cryptocurrency Index Fund sets out to redefine investment paradigms, offering a secure and diversified avenue for investors to navigate the exciting yet complex world of digital assets.
 

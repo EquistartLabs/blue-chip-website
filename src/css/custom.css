@@ -28,3 +28,5 @@
   --ifm-color-primary-lightest: #92e2f4;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+img[alt=InvestmentChallenge] { height: 400px; }
