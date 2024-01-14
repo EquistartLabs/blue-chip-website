@@ -1,4 +1,4 @@
-# Technical Mechanics
+# 🛠 Technical Mechanics
 
 ## Blockchain
 
@@ -41,6 +41,7 @@ Search for API Selection for Asset, price, Market cap data
 Data: Selected Dexes
 Data: Blue Chip Assets Under Management (AUM), token supply
 Data processing
+Decide Trigger parameters
 
 Smart Contract: Set Protocol
 Fork live network

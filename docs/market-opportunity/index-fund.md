@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Index Fund Market
+# 🧺 Index Fund Market
 
 As the cryptocurrency market matures, investors are seeking diversified and professionally managed options that capture the broader market trends. An Index Fund structured product addresses this demand by offering exposure to a basket of top-performing cryptocurrencies, providing a balanced and risk-mitigated approach.
 

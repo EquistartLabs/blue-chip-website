@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# About
+# 🔵 About
 
 ## Understanding Investment Challenges?
 

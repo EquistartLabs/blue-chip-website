@@ -1,4 +1,4 @@
-# General Mechanics
+# 📊 General Mechanics
 
 ## Asset eligibility Determination
 
@@ -48,3 +48,26 @@ Recursive Rebalancing
 - Step4: Compare current % score for assets to the portfolio composition
 - Step5: Swap assets to rebalance
 - Step6: Calculate price of blue chip token
+
+Calculating Components/ assets
+
+- List Top 10 Cryptocurrency by Market Cap
+- Use the list to create array of Coponents Address in decresing value in Market Cap
+- Trigger UpdateComponents if the list is changed
+
+Calculating Component Units
+
+- For every asset, ideal % of asset in Index score (% score) is calculated to represent market share (Market cap of asset / Sum of market cap of all assets included)
+- for every asset, Ideal Value is calculated using % score x Total Portfolio value
+- Asset in exact is calculatd by Ideal Asset Value / Price of Asset
+- Units are calculated by Asset in exact / total supply
+
+- Simply explained, Units = % score x Total Portfolio value / price of asset x total supply === % score x token price / price of asset
+
+Rebalancing Portfolio
+Once Index Composition in Units are set, the portfolio is rebalanced hourly to bring asset value to idea index composition by trading assets automatically.
+
+- For every asset, % value in portfolio is calculate by value of asset/ Value of Portfolio
+- Compare with original % score
+- Buy assets, which have % value in portfolio < ideal % of asset in Index
+- Sell assets, which have % value in portfolio > ideal % of asset in Index

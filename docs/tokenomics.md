@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Tokenomics
+# 🪙 Tokenomics
 
 Welcome to the Blue Chip Tokenomics Documentation — your comprehensive guide to understanding the economic framework and utility behind the Blue Chip Automated Crypto Index Fund.
 _Token Name:_ Blue Chip Token (BLUE)

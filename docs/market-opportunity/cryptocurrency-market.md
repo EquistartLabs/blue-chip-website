@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Cryptocurrency Market
+# ฿ Cryptocurrency Market
 
 Investing in the cryptocurrency market presents a unique opportunity for individuals to participate in the digital revolution of finance. It is a vast and dynamic global marketplace, much like the stock market, but instead of the traditional companies, you’re dealing with digital currency and assets, like Bitcoin, Ethereum, and others. These cryptocurrencies operate on decentralized technology called blockchain, providing transparency and security.
 
