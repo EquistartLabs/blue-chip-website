@@ -8,14 +8,14 @@ Specifically, all eligible assets must comply:
 
 - Rank under Top 10 cryptocurrency by market cap at CoinGecko/ CoinMarketCap
 - Be traded on atleast 3 Decentralised Exchanges
-- verifyable Asset contract present on the underlying blockchain
+- verifyable Asset contract present on blockchain
 - Have free-floating price
 
 ## Components Selection: Index Weights Applied
 
 - When all eligible assets are identified, the market capitalization of each asset is calculated.
-- Once Market Cap of each asset is determined, the system will calculate share of each asset in the portfolio by a percentage score.
-- If an asset have a percentage score of less than 1%, it will be roofed at 1% and the final score will be rebalanced from Top3 assets by market cap
+- Once Market Cap of each asset is determined, the system will calculate share of each asset in the portfolio by a percentage score (% score).
+- If an asset have a percentage score of less than 1%, it will be roofed at 1% and the final score will be rebalanced by substracting from Top3 assets by market cap
 
   `Percentage score = Market Cap of an Asset / Sum of Market Cap of all selected assets`
 
@@ -28,8 +28,9 @@ The Index Fund portfolio is automated and rebalancd programatically using oracle
 
 ## Overview
 
-Write 1st time allocation steps
-Write recursive allocation steps
+<!-- Explain using Graphic -->
+
+Write 1st time allocation steps.
 
 - Token Launch - Tokens airdropped to investors
 - Funds transferred to Treasury Smart-Contract
@@ -48,26 +49,3 @@ Recursive Rebalancing
 - Step4: Compare current % score for assets to the portfolio composition
 - Step5: Swap assets to rebalance
 - Step6: Calculate price of blue chip token
-
-Calculating Components/ assets
-
-- List Top 10 Cryptocurrency by Market Cap
-- Use the list to create array of Coponents Address in decresing value in Market Cap
-- Trigger UpdateComponents if the list is changed
-
-Calculating Component Units
-
-- For every asset, ideal % of asset in Index score (% score) is calculated to represent market share (Market cap of asset / Sum of market cap of all assets included)
-- for every asset, Ideal Value is calculated using % score x Total Portfolio value
-- Asset in exact is calculatd by Ideal Asset Value / Price of Asset
-- Units are calculated by Asset in exact / total supply
-
-- Simply explained, Units = % score x Total Portfolio value / price of asset x total supply === % score x token price / price of asset
-
-Rebalancing Portfolio
-Once Index Composition in Units are set, the portfolio is rebalanced hourly to bring asset value to idea index composition by trading assets automatically.
-
-- For every asset, % value in portfolio is calculate by value of asset/ Value of Portfolio
-- Compare with original % score
-- Buy assets, which have % value in portfolio < ideal % of asset in Index
-- Sell assets, which have % value in portfolio > ideal % of asset in Index

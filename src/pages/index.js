@@ -32,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      description="Description will go into a meta tag in <head />">
+      description="Blue Chip: A Decentralised Automated Crypto Index Fund, helps track the top10 cryptocurrencies by market cap">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
